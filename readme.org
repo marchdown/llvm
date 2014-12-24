@@ -1,0 +1,6 @@
+* working through writeups on C and Clang
+http://pllab.cs.nthu.edu.tw/cs340402/lectures/lectures_2013/LLVM%20Bitcode%20Introduction.pdf
+http://c.learncodethehardway.org/book/ex1.html
+** how to run llvm
+    `clang -cc1 foo.c -emit-llvm` or `clang -S -emit-llvm hello.c`
+** 
